@@ -1,10 +1,10 @@
 //META{"name":"Sakura_Prison","description":"A calm and mellow theme that fades your worries away. Customize the theme with your own colours, images and more! (Compatible with the LINE plugin!) - Based on ClearVision by @Zerthox, Cyan Firewatch by @denBot & Quiet by @Omniscient.","author":"Raiju","version":"-latest"}*//{}
 
 /* IMPORT CSS FROM GITHUB */
-@import url(https://rawgit.com/KaminariKillua/Themes/master/PrismPrison.8.css);
+@import url(https://raw.githubusercontent.com/CrimsonReapr/Themes/ecb37250420567f0fd6915d999c12933ef5dc82d/SakuraPrison/SofailTheme.css);
 
 /* IMPORTANT: Change '.old' to '.new' for the new titlebar and vice versa */
-@import url(https://rawgit.com/KaminariKillua/Themes/master/Bars/Titlebar.old.css);
+@import url(https://rawgit.com/KaminariKillua/Themes/master/Bars/Titlebar.new.css);
 /*
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: Only works in Light Mode! Change your mode in Settings > Appearance.
@@ -18,14 +18,14 @@ IMPORTANT: Links must be HTTPS!
 /* ========== CUSTOMIZABLE VARIABLES ========== */
 :root {
     /* COLOURS */
-	--main-color: #ff8080;
-	--hover-color: #ffb3b3;
-	--channel-color: #ffe6e6;
+	--main-color: #D70707;
+	--hover-color: #F90A0A;
+	--channel-color: #000000;
 	
     /* IMAGES */
-	--background-image: url(https://puu.sh/w1xpD/0e5ba7ec1b.jpg);	
-	--dm-image: url(https://puu.sh/vZu6N/f9ee8029ee.png);	
-	--profile-image: url(https://puu.sh/y8EHj/1d77073c7c.gif);
+	--background-image: url(https://img00.deviantart.net/9fc6/i/2017/040/c/c/blood_moon_yasuo_by_harzo123-dayf3gs.jpg);	
+	--dm-image: url(https://d1jkho2idshhnx.cloudfront.net/blog/wp-content/uploads/2016/04/SKT-T1-bannernew.jpg);	
+	--profile-image: url(https://orig00.deviantart.net/7619/f/2016/212/7/1/_league_of_legends__yasuo___the_unforgiven__gif__by_popokupingupop90-daby6qz.gif);
 	--nsfw-image: url(https://puu.sh/zbsiF/9b67596e0e.png);
 	
     /* MISC */
